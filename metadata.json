@@ -1,0 +1,6 @@
+{
+  "name": "9GOUM",
+  "description": "منصة 9GOUM المتكاملة للتشغيل والخدمات: للباحثين عن عمل، عروض وتوظيف، دليل الحرفيين، والأشغال المنزلية مع إعدادات متخصصة لكل قسم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
